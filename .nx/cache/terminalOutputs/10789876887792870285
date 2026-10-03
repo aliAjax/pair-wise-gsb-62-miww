@@ -1,0 +1,68 @@
+[33m❯[39m Building...
+[32m✔[39m Building...
+[37m[1mInitial chunk files[22m[2m | [22m[1mNames[22m                    [2m | [22m [1mRaw size[22m[2m | [22m[1mEstimated transfer size[22m[39m
+[37m[32mmain-PY24CDTT.js[39m[37m   [2m | [22m[2mmain[22m                     [2m | [22m[36m204.97 kB[39m[37m[2m | [22m               [36m49.64 kB[39m[37m[39m
+[37m[32mchunk-INPUVTPL.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m[36m154.95 kB[39m[37m[2m | [22m               [36m45.43 kB[39m[37m[39m
+[37m[32mchunk-XHLNRMQD.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m[36m103.71 kB[39m[37m[2m | [22m               [36m25.13 kB[39m[37m[39m
+[37m[32mstyles-75ZUP2CV.css[39m[37m[2m | [22m[2mstyles[22m                   [2m | [22m [36m77.09 kB[39m[37m[2m | [22m                [36m9.32 kB[39m[37m[39m
+[37m[32mchunk-674EFIFS.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m [36m35.09 kB[39m[37m[2m | [22m                [36m6.37 kB[39m[37m[39m
+[37m[32mchunk-TZLUZCLH.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m [36m26.91 kB[39m[37m[2m | [22m                [36m7.46 kB[39m[37m[39m
+[37m[32mchunk-IVBJMIJG.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m[36m648 bytes[39m[37m[2m | [22m              [36m648 bytes[39m[37m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial total[22m            [2m | [22m[1m603.37 kB[22m[2m | [22m              [1m143.99 kB[22m[39m
+[37m[39m
+[37m[1mLazy chunk files[22m   [2m | [22m[1mNames[22m                    [2m | [22m [1mRaw size[22m[2m | [22m[1mEstimated transfer size[22m[39m
+[37m[32mchunk-VCWC7LGX.js[39m[37m  [2m | [22m[2mdashboard-page-component[22m [2m | [22m  [36m1.07 MB[39m[37m[2m | [22m              [36m237.79 kB[39m[37m[39m
+[37m[32mchunk-WMFWG6K3.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m[36m106.70 kB[39m[37m[2m | [22m               [36m19.37 kB[39m[37m[39m
+[37m[32mchunk-7ATNLLWA.js[39m[37m  [2m | [22m[2m-[22m                        [2m | [22m [36m83.19 kB[39m[37m[2m | [22m               [36m18.55 kB[39m[37m[39m
+[37m[32mchunk-ZBSLLW3V.js[39m[37m  [[39m[37m2m | [22m[2mbrowser[22m                  [2m | [22m [36m67.57 kB[39m[37m[2m | [22m               [36m17.73 kB[39m[37m[39m
+[37m[32mchunk-XZRS7ZJC.js[39m[37m  [2m | [22m[2manomaly-page-component[22m   [2m | [22m [36m30.44 kB[39m[37m[2m | [22m                [36m7.07 kB[39m[37m[39m
+[37m[32mchunk-FO7T53GQ.js[39m[37m  [2m | [22m[2maudit-page-component[22m     [2m | [22m  [36m7.47 kB[39m[37m[2m | [22m                [36m2.53 kB[39m[37m[39m
+[37m[32mchunk-3UQKVJT5.js[39m[37m  [2m | [22m[2mmonitoring-page-component[22m[2m | [22m  [36m5.45 kB[39m[37m[2m | [22m                [36m1.89 kB[39m[37m[39m
+[37m[39m
+[37mApplication bundle generation complete. [6.918 seconds][39m
+[37m[39m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule 'maplibre-gl' used by 'apps/tailings-monitor/src/app/components/spatial-map.component.ts' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule '@turf/jsts' used by 'node_modules/@turf/buffer/dist/esm/index.js' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule 'rbush' used by 'node_modules/@turf/clusters-dbscan/dist/esm/index.js' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule 'skmeans' used by 'node_modules/@turf/clusters-kmeans/dist/esm/index.js' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule 'concaveman' used by 'node_modules/@turf/convex/dist/esm/index.js' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule 'fast-deep-equal' used by 'node_modules/@turf/line-overlap/dist/esm/index.js' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mModule 'earcut' used by 'node_modules/@tu[39m[22m[1m[33mrf/tesselate/dist/esm/index.js' is not ESM[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m  CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33m  For more information see: [4mhttps://angular.dev/tools/cli/build#configuring-commonjs-dependencies[0m[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[37mOutput location: /workspace/dist/apps/tailings-monitor[39m
+[37m[39m

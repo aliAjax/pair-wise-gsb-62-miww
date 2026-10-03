@@ -1,0 +1,102 @@
+[33m❯[39m Building...
+[32m✔[39m Building...
+[37mApplication bundle generation failed. [5.895 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'anomalyId'. Did you mean 'anomaly'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/domain/transitions.ts:269:27:[39m[22m
+[1m[31m[37m      269 │     addAudit(dataset, ctx, [32manomalyId[37m, '签批转草稿', `${paylo...[39m[22m
+[1m[31m          ╵                            [32m~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'anomaly' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/domain/transitions.ts:246:8:[39m[22m
+[1m[31m[37m      246 │   const [32manomaly[37m = dataset.anomalies.find((item) => item.id === pa...[39m[22m
+[1m[31m          ╵         [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'anomalyId'. Did you mean 'anomaly'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/domain/transitions.ts:301:25:[39m[22m
+[1m[31m[37m      301 │   addAudit(dataset, ctx, [32manomalyId[37m, '审批处置方案', `${payl...[39m[22m
+[1m[31m          ╵                          [32m~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'anomaly' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/domain/transitions.ts:246:8:[39m[22m
+[1m[31m[37m      246 │   const [32manomaly[37m = dataset.anomalies.find((item) => item.id === pa...[39m[22m
+[1m[31m          ╵         [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unclosed block "V"[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/pages/anomaly-page.component.ts:45:161:[39m[22m
+[1m[31m[37m      45 │ ...<small>{{ row.plan.basisOrderI[32md }[37m}@V{{ row.plan.basisSnapshotVe...[39m[22m
+[1m[31m         ╵                                  [32m~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Invalid ICU message. Missing '}'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/pages/anomaly-page.component.ts:56:17:[39m[22m
+[1m[31m[37m      56 │               <p>[32m{[37m{ draft.note }}</p>[39m[22m
+[1m[31m         ╵                  [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[0[39m[22m[1m[31mm [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/pages/anomaly-page.component.ts:149:2:[39m[22m
+[1m[31m[37m      149 │   [32m`[37m,[39m[22m
+[1m[31m          ╵   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2345: Argument of type 'PendingWrite' is not assignable to parameter of type 'TailingsDataset'.[39m[22m
+[1m[31m  Type 'PendingWrite' is missing the following properties from type 'TailingsDataset': points, thresholds, readings, anomalies, and 7 more.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/store/tailings.effects.ts:61:27:[39m[22m
+[1m[31m[37m      61 │ ....commitWrite([32mpending as NonNullable<typeof pending>[37m, failNext)....[39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type 'string' is not assignable to type 'WritePhase'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/store/tailings.reducer.ts:43:102:[39m[22m
+[1m[31m[37m      43 │ ...({ ...state, pendingWrite: { ...pending, [32mphase[37m: '提交中' } })),[39m[22m
+[1m[31m         ╵                                             [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  The expected type comes from property 'phase' which is declared here on type 'PendingWrite'[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/domain/models.ts:249:2:[39m[22m
+[1m[31m[37m      249 │   [32mphase[37m: WritePhase[39m[22m
+[1m[31m          ╵   [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type '{ pendingWrite: { phase: string; error: string; writeId: string; label: string; targetId: string; stagedDataset: TailingsDataset; attemptedAt: string; }; dataset: TailingsDataset; loading: boolean; ... 4 more ...; failNextWrite: boolean; }' is not assignable to type 'TailingsState'.[39m[22m
+[1m[31m  The types of 'pendingWrite.phase' are incompatible between these types.[39m[22m
+[1m[31m    Type 'string' is not assignable to type 'WritePhase'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/store/tailings.reducer.ts:52:4:[39m[22m
+[1m[31m[37m      52 │     [32mstate.pendingWrite?.writeId === [39m[22m[1m[31mwriteId[37m[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  The expected type comes from the return type of this signature.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    node_modules/@ngrx/store/src/reducer_creator.d.ts:16:17:[39m[22m
+[1m[31m[37m      16 │ export interface [32mOnReducer[37m<State, Creators extends readonly Action...[39m[22m
+[1m[31m         ╵                  [32m~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2322: Type '{ pendingWrite: { phase: string; error: string; writeId: string; label: string; targetId: string; stagedDataset: TailingsDataset; attemptedAt: string; }; dataset: TailingsDataset; loading: boolean; ... 4 more ...; failNextWrite: boolean; }' is not assignable to type 'TailingsState'.[39m[22m
+[1m[31m  The types of 'pendingWrite.phase' are incompatible between these types.[39m[22m
+[1m[31m    Type 'string' is not assignable to type 'WritePhase'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/store/tailings.reducer.ts:56:4:[39m[22m
+[1m[31m[37m      56 │     [32mstate.pendingWrite ? { ...state, pendingWrite: { ...state.pend[37m...[39m[22m
+[1m[31m         ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  The expected type comes from the return type of this signature.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    node_modules/@ngrx/store/src/reducer_creator.d.ts:16:17:[39m[22m
+[1m[31m[37m      16 │ export interface [32mOnReducer[37m<State, Creators extends readonly Action...[39m[22m
+[1m[31m         ╵                  [32m~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m

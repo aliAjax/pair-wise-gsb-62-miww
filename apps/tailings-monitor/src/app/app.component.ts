@@ -7,11 +7,12 @@ import { MatSidenavModule } from '@angular/material/sidenav'
 import { MatToolbarModule } from '@angular/material/toolbar'
 import { Store } from '@ngrx/store'
 import { TailingsActions } from './store/tailings.actions'
+import { WriteBannerComponent } from './components/write-banner.component'
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet, RouterLink, RouterLinkActive, MatSidenavModule, MatToolbarModule, MatButtonModule, MatIconModule],
+  imports: [CommonModule, RouterOutlet, RouterLink, RouterLinkActive, MatSidenavModule, MatToolbarModule, MatButtonModule, MatIconModule, WriteBannerComponent],
   template: `
     <mat-sidenav-container class="app-shell">
       <mat-sidenav mode="side" opened class="side-nav">
@@ -22,10 +23,11 @@ import { TailingsActions } from './store/tailings.actions'
           <a routerLink="/anomalies" routerLinkActive="active"><span>异常处置</span><small>复核与会签</small></a>
           <a routerLink="/audit" routerLinkActive="active"><span>审计追溯</span><small>历史版本</small></a>
         </nav>
-        <div class="side-state"><span>原始读数保护</span><b>只读且不可覆盖</b><small>处置修订单独版本化</small></div>
+        <div class="side-state"><span>一致性保障</span><b>整版快照提交</b><small>联动/方案/任务同版</small></div>
       </mat-sidenav>
       <mat-sidenav-content>
         <mat-toolbar class="topbar"><div><span>矿山安全运营中心 / 尾矿库</span><h1>监测计划与异常处置审阅</h1></div><button mat-button (click)="reset()">恢复演示数据</button></mat-toolbar>
+        <app-write-banner />
         <main><router-outlet /></main>
       </mat-sidenav-content>
     </mat-sidenav-container>
