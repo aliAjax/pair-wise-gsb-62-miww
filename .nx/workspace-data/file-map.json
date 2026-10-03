@@ -10,140 +10,608 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".nx/cache/run.json",
-        "hash": "4186832077140333755"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-R327OCYJ.js.map",
+        "hash": "9947606979680686569"
       },
       {
-        "file": "dist/apps/tailings-monitor/browser/chunk-V7YMKWUW.js",
-        "hash": "12145053869386249996"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-PBOPNPZR.js",
-        "hash": "517360468387600306"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-DRVML3MY.js",
-        "hash": "10739811387406207344"
-      },
-      {
-        "file": "README.md",
-        "hash": "14966926192507714966"
-      },
-      {
-        "file": ".nx/workspace-data/7D8459F8-5903-52ED-ABA3-38DBD53DA06B.db-shm",
-        "hash": "10417534811572280970"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/styles-75ZUP2CV.css",
-        "hash": "8318054124022891302"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-4YP5FVGS.js",
-        "hash": "6171930850104508267"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-KLK7ATPB.js",
-        "hash": "712713409575261597"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-DAMUW2K3.js",
-        "hash": "12955211536603874045"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-TMWYAB7U.js",
-        "hash": "2116044896567175260"
-      },
-      {
-        "file": ".nx/workspace-data/nx_files.nxt",
-        "hash": "5785875702508910683"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-L6TZ6WPX.js",
-        "hash": "5909393206785199649"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-N3XDEUS6.js",
-        "hash": "14745039861380960899"
-      },
-      {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "9240376357651584158"
-      },
-      {
-        "file": "package.json",
-        "hash": "12335471524715769232"
-      },
-      {
-        "file": "dist/apps/tailings-monitor/browser/chunk-PCQUEZ2A.js",
-        "hash": "12108836224656361673"
-      },
-      {
-        "file": ".nx/workspace-data/file-map.json",
-        "hash": "14136177931873919587"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "6851331975978680701"
-      },
-      {
-        "file": ".angular/cache/19.2.27/tailings-monitor/angular-compiler.db-lock",
-        "hash": "2223393993682196334"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/15273689729215952271",
-        "hash": "17239492168584712960"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "16292651434225642401"
-      },
-      {
-        "file": "nx.json",
-        "hash": "9170978442532120139"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_platform-browser.js.map",
+        "hash": "9947606979680686569"
       },
       {
         "file": "dist/apps/tailings-monitor/prerendered-routes.json",
         "hash": "15049165521752226651"
       },
       {
-        "file": ".angular/cache/19.2.27/tailings-monitor/angular-compiler.db",
-        "hash": "3120827037191187753"
+        "file": "dist/apps/tailings-monitor/browser/chunk-CRFDRDFS.js",
+        "hash": "396709476540075535"
       },
       {
-        "file": "dist/apps/tailings-monitor/browser/chunk-WMBKW52S.js",
-        "hash": "18006063818295685827"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-RZINJQHJ.js.map",
+        "hash": "559905335210496681"
       },
       {
-        "file": ".nx/workspace-data/7D8459F8-5903-52ED-ABA3-38DBD53DA06B.db-wal",
-        "hash": "8057381839380686117"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_tooltip.js.map",
+        "hash": "2786708486559495129"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-IBYU652R.js",
+        "hash": "10914084027436762776"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/rxjs.js",
+        "hash": "14411169034896165397"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-YPYI63ZC.js",
+        "hash": "13338418328630620692"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_cdk_scrolling.js",
+        "hash": "15924073567779138580"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-4YSYSQVD.js",
+        "hash": "15092748842154887124"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-22YY3KCM.js",
+        "hash": "6147420475311796345"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-PDE36SJQ.js",
+        "hash": "3694996616573795197"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-Q3VBZ264.js",
+        "hash": "18107238810878291787"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_core.js",
+        "hash": "5568335787992715280"
+      },
+      {
+        "file": ".git/objects/af/tmp_obj_OsY6Si",
+        "hash": "6841775613944084813"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_sidenav.js.map",
+        "hash": "9249571265612330129"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_cdk_bidi.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_toolbar.js",
+        "hash": "2212640044666574648"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-IBYU652R.js.map",
+        "hash": "3167579479464855120"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-GH3IBDWC.js",
+        "hash": "18346701815712113719"
+      },
+      {
+        "file": ".nx/cache/run.json",
+        "hash": "9986834125828093632"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/rxjs.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_forms.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-THMNQWYX.js",
+        "hash": "12828876995174062082"
       },
       {
         "file": ".nx/workspace-data/source-maps.json",
         "hash": "15470689863632492660"
       },
       {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/zone__js.js",
+        "hash": "18251796727623740683"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-XWAHRBGF.js",
+        "hash": "7890048220175067079"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps_ssr/_metadata.json",
+        "hash": "4766400470897673239"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_cdk_scrolling.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".nx/workspace-data/file-map.json",
+        "hash": "5503607544793965191"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_core.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@ngrx_effects.js",
+        "hash": "6295538498173557455"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-HI27C6GF.js",
+        "hash": "4855065499308417959"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_common_http.js",
+        "hash": "8303774019917574007"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-HI27C6GF.js.map",
+        "hash": "15851440981172553651"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-COVYWPNF.js",
+        "hash": "8359552556413017277"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-524J6CVC.js",
+        "hash": "6941751494253958911"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps_ssr/package.json",
+        "hash": "8630294688235076505"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6851331975978680701"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_cdk_text-field.js",
+        "hash": "4285469893538350974"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-XHIA5XIX.js.map",
+        "hash": "4275157664861817838"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@turf_turf.js.map",
+        "hash": "9363297058236158345"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-IUVLUK2M.js",
+        "hash": "2774560211220613939"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-WWV3GRFY.js.map",
+        "hash": "16954495462574423551"
+      },
+      {
+        "file": ".nx/workspace-data/7D8459F8-5903-52ED-ABA3-38DBD53DA06B.db-wal",
+        "hash": "2160113019944424593"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_common.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-DQLOT4JZ.js",
+        "hash": "8336955407633849070"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_input.js.map",
+        "hash": "4596009976711561639"
+      },
+      {
+        "file": "README.md",
+        "hash": "1951489210873146460"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-WWV3GRFY.js",
+        "hash": "12808895103222001409"
+      },
+      {
+        "file": "package.json",
+        "hash": "12335471524715769232"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_icon.js",
+        "hash": "5867934334794975272"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-X4ABVFH5.js",
+        "hash": "18434973825172310854"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_icon.js.map",
+        "hash": "7186303607430106659"
+      },
+      {
+        "file": ".git/config",
+        "hash": "2806004946218554084"
+      },
+      {
+        "file": ".nx/workspace-data/7D8459F8-5903-52ED-ABA3-38DBD53DA06B.db-shm",
+        "hash": "7712544850480626775"
+      },
+      {
+        "file": "scripts/verify-seed.cjs",
+        "hash": "5179056332469630063"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-F2CSOAGY.js",
+        "hash": "13858423196572551470"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/11914170913765421343",
+        "hash": "13918573187542931181"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/zone__js.js.map",
+        "hash": "1666198348605278961"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_tooltip.js",
+        "hash": "17270783286916921058"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_platform-browser.js",
+        "hash": "1977776279248867415"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_select.js",
+        "hash": "10251681939847107150"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-R327OCYJ.js",
+        "hash": "8791878672767932601"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-2YGPWXPO.js.map",
+        "hash": "17687696543275191493"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "16292651434225642401"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_select.js.map",
+        "hash": "10916454636907193196"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-53BKKE2V.js",
+        "hash": "15820686470205180471"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-76U2ZX64.js.map",
+        "hash": "8891415993354448543"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_form-field.js.map",
+        "hash": "6881005288703526542"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-KAUD5CAU.js",
+        "hash": "11682740385425777699"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-FONRFT5W.js",
+        "hash": "16261366566863330740"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_forms.js",
+        "hash": "11021498004203764804"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@ngrx_effects.js.map",
+        "hash": "16164248012556765645"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_cdk_text-field.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-XHIA5XIX.js",
+        "hash": "15344976021530116207"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_common.js",
+        "hash": "15978818613731256613"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-SYPCGBGB.js",
+        "hash": "3180662505250351195"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-RZINJQHJ.js",
+        "hash": "10112571392503937007"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_button.js",
+        "hash": "13247566154310661198"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-MZSSF5J5.js.map",
+        "hash": "16345982755301468564"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-DQLOT4JZ.js.map",
+        "hash": "11116053236160636047"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-SXCNWKK3.js",
+        "hash": "1683237912058825866"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-OCGHKYYR.js",
+        "hash": "14010305983815652242"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-MZSSF5J5.js",
+        "hash": "11497781042570533754"
+      },
+      {
         "file": "dist/apps/tailings-monitor/3rdpartylicenses.txt",
-        "hash": "18413877035496641076"
+        "hash": "15783628203820662838"
       },
       {
-        "file": ".nx/workspace-data/d/server-process.json",
-        "hash": "8410223236711597614"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@turf_turf.js",
+        "hash": "15098387556603033559"
       },
       {
-        "file": "dist/apps/tailings-monitor/browser/index.html",
-        "hash": "2120426528164397768"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_button.js.map",
+        "hash": "13744205987681632545"
       },
       {
-        "file": "dist/apps/tailings-monitor/browser/chunk-X6BEATIZ.js",
-        "hash": "1245776336975913386"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/package.json",
+        "hash": "8630294688235076505"
       },
       {
-        "file": "dist/apps/tailings-monitor/browser/main-OC2GRVAU.js",
-        "hash": "2086068528785175285"
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-OCGHKYYR.js.map",
+        "hash": "10617532450764936435"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-SXCNWKK3.js.map",
+        "hash": "11738569098281539423"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_cdk_bidi.js",
+        "hash": "13529386240221765034"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_table.js",
+        "hash": "8476101952393261299"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-ZDV3WDIZ.js.map",
+        "hash": "9895298666930114496"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/angular-compiler.db",
+        "hash": "12332001883348624437"
+      },
+      {
+        "file": "nx.json",
+        "hash": "9170978442532120139"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/styles-75ZUP2CV.css",
+        "hash": "8318054124022891302"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/browser-OUHWIBFR.js",
+        "hash": "16492259544137490760"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-YPYI63ZC.js.map",
+        "hash": "3183388909564755288"
+      },
+      {
+        "file": "scripts/verify-engine.cjs",
+        "hash": "503178441770811944"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/maplibre-gl.js.map",
+        "hash": "11749273844618452777"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_router.js",
+        "hash": "8128064831965233948"
       },
       {
         "file": ".angular/cache/19.2.27/tailings-monitor/.tsbuildinfo",
-        "hash": "3290675995819177257"
+        "hash": "12351255090398507923"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-IQBXJQ5C.js.map",
+        "hash": "12873873894320621895"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/_metadata.json",
+        "hash": "8100534629106551090"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_platform-browser_animations_async.js.map",
+        "hash": "17311105296670958007"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-X4ABVFH5.js.map",
+        "hash": "13330213567216493896"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/browser-OUHWIBFR.js.map",
+        "hash": "10895528024227017909"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@ngrx_store.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": ".git/index.lock",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_form-field.js",
+        "hash": "10537858593611211826"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-FONRFT5W.js.map",
+        "hash": "8689455223014911799"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-N6DEIXFN.js",
+        "hash": "1683517037518720729"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-G7BT5KGW.js.map",
+        "hash": "11263063238826826287"
+      },
+      {
+        "file": ".nx/workspace-data/project-graph.json",
+        "hash": "10003267113827599244"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-DI6K2TNF.js.map",
+        "hash": "1048536543822362652"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/maplibre-gl.js",
+        "hash": "2667070791866514870"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_router.js.map",
+        "hash": "9008582074114838731"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@ngrx_store.js",
+        "hash": "13223139879277228372"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-ESTAWB6G.js",
+        "hash": "13063641974560124365"
+      },
+      {
+        "file": ".git/info/exclude",
+        "hash": "6236212960286680091"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_toolbar.js.map",
+        "hash": "8577219373178480804"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-X74356D3.js",
+        "hash": "769244291584964886"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-2O4WY5GE.js",
+        "hash": "16383303491153268098"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_platform-browser_animations_async.js",
+        "hash": "2810785222264230924"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-2YGPWXPO.js",
+        "hash": "13663467372944650787"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_table.js.map",
+        "hash": "492528003897262603"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-GH3IBDWC.js.map",
+        "hash": "6707416536751824620"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-RIRLS6QZ.js",
+        "hash": "10240186043259968042"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_common_http.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-SVZBK5XK.js",
+        "hash": "13439276812317810969"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-2O4WY5GE.js.map",
+        "hash": "12576530511299887157"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-SYPCGBGB.js.map",
+        "hash": "13362627227396781028"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/angular-compiler.db-lock",
+        "hash": "1467098830350740556"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/index.html",
+        "hash": "10782681525337442237"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-IQBXJQ5C.js",
+        "hash": "13404126205752055372"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-76U2ZX64.js",
+        "hash": "17730383609133984913"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-4YSYSQVD.js.map",
+        "hash": "658549419200794793"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-22YY3KCM.js.map",
+        "hash": "9240922255249999256"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-ZDV3WDIZ.js",
+        "hash": "4190076034608424258"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_input.js",
+        "hash": "15311250446104443808"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_sidenav.js",
+        "hash": "13884714002220739353"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_badge.js.map",
+        "hash": "2164705498601564397"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/@angular_material_badge.js",
+        "hash": "9663643057738505290"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-DI6K2TNF.js",
+        "hash": "6369029955138671638"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-72DM5EZ3.js",
+        "hash": "3016217179148801629"
+      },
+      {
+        "file": ".git/index",
+        "hash": "672161955420105046"
+      },
+      {
+        "file": ".angular/cache/19.2.27/tailings-monitor/vite/deps/chunk-G7BT5KGW.js",
+        "hash": "16674698120132680540"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/main-XCE3X73P.js",
+        "hash": "8362114704509483867"
+      },
+      {
+        "file": "dist/apps/tailings-monitor/browser/chunk-CLWTXQGQ.js",
+        "hash": "7797239190489941262"
       }
     ],
     "projectFileMap": {
@@ -158,7 +626,14 @@
         },
         {
           "file": "apps/tailings-monitor/src/app/app.component.ts",
-          "hash": "16623003463960638024"
+          "hash": "7239867119531542297",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:@angular/material",
+            "npm:@ngrx/store"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/app.config.ts",
@@ -166,7 +641,10 @@
         },
         {
           "file": "apps/tailings-monitor/src/app/app.routes.ts",
-          "hash": "11906759839685450830"
+          "hash": "9877287647739299986",
+          "deps": [
+            "npm:@angular/router"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/components/spatial-map.component.ts",
@@ -179,7 +657,7 @@
         },
         {
           "file": "apps/tailings-monitor/src/app/data/seed.ts",
-          "hash": "10656137919395790127"
+          "hash": "10771734518892272475"
         },
         {
           "file": "apps/tailings-monitor/src/app/domain/index.ts",
@@ -187,25 +665,52 @@
         },
         {
           "file": "apps/tailings-monitor/src/app/domain/models.ts",
-          "hash": "6096707457733855372"
+          "hash": "8256451830653449978"
         },
         {
           "file": "apps/tailings-monitor/src/app/pages/anomaly-page.component.ts",
-          "hash": "15293728193196744932"
+          "hash": "12263939575829436686",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/material",
+            "npm:@ngrx/store"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/pages/audit-page.component.ts",
-          "hash": "4231019843505484630"
+          "hash": "17530533462704500343",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/material",
+            "npm:@ngrx/store",
+            "npm:rxjs"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/pages/dashboard-page.component.ts",
-          "hash": "1538123813096005306",
+          "hash": "12722039939893185460",
           "deps": [
             "npm:@angular/common",
             "npm:@angular/core",
             "npm:@angular/material",
+            "npm:@angular/router",
             "npm:@ngrx/store",
             "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/tailings-monitor/src/app/pages/dispatch-page.component.ts",
+          "hash": "12709429392651127002",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/material",
+            "npm:@ngrx/store"
           ]
         },
         {
@@ -213,24 +718,56 @@
           "hash": "1991874652555138004"
         },
         {
+          "file": "apps/tailings-monitor/src/app/services/persistence.service.ts",
+          "hash": "16673814420397320415",
+          "deps": [
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
           "file": "apps/tailings-monitor/src/app/services/tailings-api.service.ts",
-          "hash": "2795275682284974247"
+          "hash": "766844590996426354",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/tailings-monitor/src/app/store/commit-engine.ts",
+          "hash": "15061951750418561438"
         },
         {
           "file": "apps/tailings-monitor/src/app/store/tailings.actions.ts",
-          "hash": "10344504336277507371"
+          "hash": "8730097230128480012",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/store/tailings.effects.ts",
-          "hash": "17403984402084569313"
+          "hash": "11095536362743475366",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@ngrx/effects",
+            "npm:@ngrx/store",
+            "npm:rxjs"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/store/tailings.reducer.ts",
-          "hash": "6339738025847478264"
+          "hash": "16730410166888475556",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/app/store/tailings.selectors.ts",
-          "hash": "15941602220926920818"
+          "hash": "18187573633069700934",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
         },
         {
           "file": "apps/tailings-monitor/src/index.html",

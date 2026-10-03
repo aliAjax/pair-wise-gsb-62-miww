@@ -1,0 +1,31 @@
+[33m❯[39m Building...
+[32m✔[39m Building...
+[37mApplication bundle generation failed. [6.031 seconds][39m
+[37m[39m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2339: Property 'addExpertOpinion' does not exist on type 'ActionGroup<"Tailings", { 'Load Dataset': ActionCreatorProps<void>; 'Load Dataset Success': ActionCreatorProps<{ dataset: TailingsDataset; pendingWrites: PendingWrite[]; }>; ... 24 more ...; 'Reset Demo': ActionCreatorProps<...>; }>'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/pages/anomaly-page.component.ts:263:40:[39m[22m
+[1m[31m[37m      263 │ ...spatch(TailingsActions.[32maddExpertOpinion[37m({ anomalyId: anomaly.i...[39m[22m
+[1m[31m          ╵                           [32m~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2551: Property 'saveSnapshot' does not exist on type 'PersistenceService'. Did you mean 'seedSnapshot'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/services/persistence.service.ts:31:9:[39m[22m
+[1m[31m[37m      31 │     this.[32msaveSnapshot[37m(dataset)[39m[22m
+[1m[31m         ╵          [32m~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'seedSnapshot' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/services/persistence.service.ts:29:2:[39m[22m
+[1m[31m[37m      29 │   [32mseedSnapshot[37m(): TailingsDataset {[39m[22m
+[1m[31m         ╵   [32m~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2305: Module '"@ngrx/effects"' has no exported member 'concatLatestFrom'.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    apps/tailings-monitor/src/app/store/tailings.effects.ts:2:18:[39m[22m
+[1m[31m[37m      2 │ import { Actions, [32mconcatLatestFrom[37m, createEffect, ofType } from '@n...[39m[22m
+[1m[31m        ╵                   [32m~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
